@@ -1,5 +1,3 @@
-package CiclooBucles;
-
 public class SucesionFibonacci {
     public static void main(String args[]) {
 

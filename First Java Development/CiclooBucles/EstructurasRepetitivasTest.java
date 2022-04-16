@@ -1,5 +1,3 @@
-package CiclooBucles;
-
 public class EstructurasRepetitivasTest {
     public static void main(String args[]) {
 

@@ -1,5 +1,3 @@
-package CiclooBucles;
-
 public class CicloFor {
     public static void main(String args[]){
 
